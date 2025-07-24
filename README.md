@@ -59,17 +59,20 @@ Collaborated on developing intelligent NLP-powered features for an employee feed
 - Text summarization & classification  
 - Agile workflow & stakeholder engagement
 
-### 🎓 Capstone Project: Predicting Mental Health Outcomes Using Survey + Sensor Data
+---
+
+### 🎓 Capstone Project: Interactive Healthcare Dashboard with Predictive Analytics
 
 **Description:**  
-This project combines wearable sensor data (e.g., heart rate, sleep) and psychological survey responses to predict stress and depression risk levels. Applied ensemble models and SHAP explanations to ensure interpretability for mental health professionals.
+Built a multi-layered healthcare analytics dashboard integrating hospital events, professional types, and financial metrics. Users can interactively filter by specialty, provider, region, and time period. The dashboard includes predictive features to flag high-cost events and top-funded centers using real data.
 
 **Skills & Tools:**  
-- XGBoost, Random Forest  
-- Time series preprocessing  
-- Feature engineering (physiological + categorical)  
-- SHAP, LIME for model transparency  
-- Jupyter, Scikit-learn, Matplotlib
+- Python, Dash, Plotly  
+- SQL, Pandas, SQLAlchemy  
+- Predictive modeling (scikit-learn)  
+- Data visualization & interactive filters  
+- UX-focused dashboard design  
+- Domain knowledge in healthcare analytics
 
 ---
 
