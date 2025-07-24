@@ -75,6 +75,6 @@ This project combines wearable sensor data (e.g., heart rate, sleep) and psychol
 
 ## 📫 Let's Connect
 
-Feel free to explore the individual project folders for code, notebooks, and documentation. For questions or collaboration opportunities, reach out via www.linkedin.com/in/shriya kumar 794a01152 
+Feel free to explore the individual project folders for code, notebooks, and documentation. For questions or collaboration opportunities, reach out via www.linkedin.com/in/shriya-kumar-794a01152 
 
 ---
